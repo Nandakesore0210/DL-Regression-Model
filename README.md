@@ -129,9 +129,9 @@ print(f"Predicted for x=120: {y_new_pred:.8f}")
 
 ## OUTPUT
 ### Training Loss Vs Iteration Plot
-<img width="214" height="92" alt="image" src="https://github.com/user-attachments/assets/e5ccbdfc-84cc-47ba-8f20-ff4ffa9f39c8" />
-<img width="793" height="618" alt="image" src="https://github.com/user-attachments/assets/8f2f20d7-e35c-466a-bfd4-7873819471d5" />
-<img width="277" height="120" alt="image" src="https://github.com/user-attachments/assets/b22ecb76-2c82-4789-984f-89a7c08525a6" />
+<img width="214" height="92" alt="image" src="https://github.com/user-attachments/assets/e5ccbdfc-84cc-47ba-8f20-ff4ffa9f39c8" /><br>
+<img width="793" height="618" alt="image" src="https://github.com/user-attachments/assets/8f2f20d7-e35c-466a-bfd4-7873819471d5" /><br>
+<img width="277" height="120" alt="image" src="https://github.com/user-attachments/assets/b22ecb76-2c82-4789-984f-89a7c08525a6" /><br>
 
 
 
